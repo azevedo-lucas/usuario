@@ -1,6 +1,7 @@
 package com.estudo.usuario.infrastructure.repository;
 
-import com.aprendendospring.estudo.infrastructure.entity.Telefone;
+
+import com.estudo.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
